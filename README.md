@@ -16,6 +16,7 @@
 <br />  
 <br />
 
+- 🖥️ I'm FE Developer
 - 🌱 I’m currently learning React, Redux, TypeScript  
 - 📫 How to reach me: geuna0204@gmail.com  
 
