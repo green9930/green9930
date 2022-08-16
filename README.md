@@ -4,11 +4,6 @@
 **green9930/green9930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
     
 <br />
-  
-- 🌱 I’m currently learning React, Redux, TypeScript  
-- 📫 How to reach me: geuna0204@gmail.com  
-    
-<br />
 
 <div align="center">
 
@@ -19,11 +14,16 @@
 </div>  
 
 <br />  
-<br />  
 <br />
-<br />
+
+- 🌱 I’m currently learning React, Redux, TypeScript  
+- 📫 How to reach me: geuna0204@gmail.com  
+
 <br />
     
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=green9930&theme=react&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=green9930&theme=react&show_icons=true)
+    
+<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=green9930&theme=react&layout=compact)](https://github.com/green9930/github-readme-stats) 
   
