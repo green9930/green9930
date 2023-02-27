@@ -8,7 +8,8 @@
 <div align="center">
 
 👩‍💻 I'm Frontend Developer   
-📫 geuna0204@gmail.com
+📫 geuna0204@gmail.com  
+🔗 [portfolio](https://green9930.github.io/portfolio/)
 
 </div>  
 
